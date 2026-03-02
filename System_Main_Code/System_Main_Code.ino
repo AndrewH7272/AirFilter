@@ -3,6 +3,8 @@ void setup() {
   #include <Wire.h>
   #include "RTClib.h"
   #include "Adafruit_BMP280.h"
+  #include <SharpDustSensor.h>
+  #include <RunningAverage.h>
 }
 
 void loop() {
