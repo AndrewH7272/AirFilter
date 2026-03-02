@@ -18,7 +18,7 @@ void loop() {
     //bool badFilter = true;
     //alert()
 
-  //if avgairquality > airThreshold:
+  //if avgairquality > qualityThreshold:
     //bool badFilter = true;
     //alert()
 
