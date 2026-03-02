@@ -18,7 +18,7 @@ void loop() {
     //bool badFilter = true;
     //alert()
 
-  //if avgairquality > qualityThreshold:
+  //if avgConcentration > concentrationThreshold:
     //bool badFilter = true;
     //alert()
 
