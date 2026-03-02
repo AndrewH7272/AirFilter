@@ -13,7 +13,9 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  if pressure > threshold:
-    bool badFilter = true;
+  
+  //if avgpressure > threshold: bool badFilter = true;
+
+  //if avgairquality > threshold: bool badFilter = true;
 
 }
