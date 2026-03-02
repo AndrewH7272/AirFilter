@@ -7,6 +7,7 @@ void setup() {
   #include <RunningAverage.h>
   #include <Wifi.h>
   #include <HTTPClient.h>
+  bool badFilter = false;
 }
 
 void loop() {
