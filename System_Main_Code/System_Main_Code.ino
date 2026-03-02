@@ -5,6 +5,8 @@ void setup() {
   #include "Adafruit_BMP280.h"
   #include <SharpDustSensor.h>
   #include <RunningAverage.h>
+  #include <Wifi.h>
+  #include <HTTPClient.h>
 }
 
 void loop() {
