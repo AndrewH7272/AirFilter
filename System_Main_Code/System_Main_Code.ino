@@ -13,6 +13,9 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
+
+  //clear alarm and reset alarm for next time to activate the arduino for a minute.
+  
   //FUNCTION sendAlert(dust, pressure):
   //IF dust/pressure reaches thresholdValue
   //send HTTPS post
