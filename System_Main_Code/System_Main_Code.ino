@@ -13,7 +13,6 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  // put your main code here, to run repeatedly:
   //FUNCTION sendAlert(dust, pressure):
   //IF dust/pressure reaches thresholdValue
   //send HTTPS post
